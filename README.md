@@ -1,8 +1,9 @@
 RadCheckView
 ============
 
-The Android SDK inclues the class [CheckedTextView](http://developer.android.com/reference/android/widget/CheckedTextView.html) which
-provides a standard [TextView](http://developer.android.com/reference/android/widget/TextView.html) with a CheckBox.
+The Android SDK includes the class [CheckedTextView](http://developer.android.com/reference/android/widget/CheckedTextView.html) which
+extends the standard [TextView](http://developer.android.com/reference/android/widget/TextView.html) and implements
+the [Checkable](http://developer.android.com/reference/android/widget/Checkable.html) interface.
 
 Unfortunately it doesn't do this for any other View.
 
