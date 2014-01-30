@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CheckedView">
+        <!-- Copied from android.R.styleable.CheckedTextView -->
+        <!-- Indicates the initial checked state of this text. -->
+        <attr name="checked" format="boolean"/>
+        <!-- Drawable used for the check mark graphic. -->
+        <attr name="checkMark" format="reference"/>
+    </declare-styleable>
+</resources>

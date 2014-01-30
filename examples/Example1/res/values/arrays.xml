@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="names">
+        <item>Android</item>
+        <item>iPhone</item>
+        <item>WindowsMobile</item>
+        <item>Blackberry</item>
+        <item>WebOS</item>
+        <item>Ubuntu</item>
+        <item>Windows 7</item>
+        <item>Max OS X</item>
+        <item>Linux</item>
+        <item>OS/2</item>
+    </string-array>
+
+    <array name="images">
+        <item>@drawable/android_logo</item>
+        <item>@drawable/blackberry_logo</item>
+        <item>@drawable/ios_logo</item>
+        <item>@drawable/windowsmobile_logo</item>
+    </array>
+</resources>
